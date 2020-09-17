@@ -1,0 +1,2 @@
+2019-02-05 19:12:44,957 - POMDPy.Solver - env: RockSample	epochs: 10	ave undiscounted return: 12.0 +- 1.2649110640673518	ave discounted return: 7.507874484861745 +- 0.633714192980076	ave time/epoch: 5.148985385894775
+2019-02-14 14:51:04,287 - POMDPy.Solver - env: CyberSample	epochs: 10	ave undiscounted return: 13.0 +- 1.449137674618944	ave discounted return: 8.460745033498757 +- 1.0194868000667006	ave time/epoch: 5.095999121665955
